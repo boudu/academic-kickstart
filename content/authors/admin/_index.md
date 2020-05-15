@@ -18,7 +18,7 @@ organizations:
   url: "rosewayevaluation.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My work supports the discovery, continuation or recharging of project or organzational evaluation. 
+bio: My work supports the discovery, continuation and recharging of project or organzational evaluation. 
 
 interests:
 - Program Evaluation
