@@ -46,7 +46,7 @@ subtitle = ""
 
 [[feature]]
   icon = "codepen"
-  icon_pack = "fad"
+  icon_pack = "fab"
   name = "Structure Building"
   #description = "10%"
   
