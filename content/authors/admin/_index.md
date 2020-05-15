@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: MPH - Public Health
+  - course: MPH - Master Degree in Public Health
     institution: Thomas Jefferson University (Philadelphia, PA)
     year: 2010
   - course: BSc - Biology
@@ -64,4 +64,6 @@ user_groups:
 - Visitors
 ---
 
-My work focuses on assisting those trying to formalize the evaluative structure of their project or organization. On this site, you will see past work, current projects and examples of processes that support the best practices for creating productive projects using evaluation. 
+My work supports the discovery, continuation or recharging of project or organzational evaluation.
+
+On this site, you will see past work, current projects and examples of processes that support the best practices for creating productive projects using evaluation. 
