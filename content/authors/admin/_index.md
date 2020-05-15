@@ -62,7 +62,7 @@ email: "boudu.bingay@gmail.com"
 user_groups:
 - Researchers
 - Visitors
----
+--
 
 My work supports the discovery, continuation or recharging of project or organzational evaluation.
 
