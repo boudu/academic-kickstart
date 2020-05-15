@@ -18,19 +18,25 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  #description = "90%"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
+  #description = "100%"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "salesforce"
+  icon_pack = "fab"
+  name = "SalesForce"
+  #description = "10%"
+  
+[[feature]]
+  icon = "chart_bar"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Reports"
+  #description = "10%"
 
 # Uncomment to use emoji icons.
 # [[feature]]
