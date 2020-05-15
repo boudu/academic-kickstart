@@ -33,11 +33,23 @@ subtitle = ""
   #description = "10%"
   
 [[feature]]
-  icon = "chart_bar"
+  icon = "chart-bar"
   icon_pack = "fas"
   name = "Reports"
   #description = "10%"
+  
+[[feature]]
+  icon = "coins"
+  icon_pack = "fas"
+  name = "Databases"
+  #description = "10%"
 
+[[feature]]
+  icon = "codepen"
+  icon_pack = "fad"
+  name = "Structure Building"
+  #description = "10%"
+  
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"
