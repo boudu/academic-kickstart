@@ -37,12 +37,19 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Epidemiologist"
+  company = "Oklahoma State Department of Health"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Oklahoma City, OK"
+  date_start = "2011-12-01"
+  date_end = "2014-02-28"
+  description = """•	Evaluated, reported, and structured improvements in the process and outcomes of 21 maternal and child health programs under the federal Maternal Infant Early Childhood Home Visiting Grant (MIECHV)
+o	Used SQL queries to extract, read, write and update statewide data system
+•	Supported the data collection, management, and analysis of four sister programs and over 100 community sites
+o	Used SAS & Excel software to analysis and visualize statistical reports
+•	Facilitated data use and enhanced quality of reporting by increasing the program data literacy, adopting uniform data standards, and implementing quality improvement programs
+o	Using SQL and SAS to automate data quality
+•	Wrote and ran the Quality Improvement Plan for our program with a diverse group of stakeholders 
+ """
 
 +++
