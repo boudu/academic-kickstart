@@ -26,7 +26,9 @@ date_format = "Jan 2006"
   date_end = "2019-12-01"
   description = """•	Coordinated the management of program data for nearly 14,000 unique participants/100,000 interactions annually  
 •	Analyzed the process and outcomes data of 55 staff members, who serve >5000 participants annually
+
 •	Supported reporting & visualization of real-time, weekly, monthly & annual reports in RStudio & Tableau
+
 •	Lead projects in text analysis, modeling, prediction, & forecasting through statistical analysis
 
   Responsibilities include:
@@ -45,10 +47,13 @@ date_format = "Jan 2006"
   date_end = "2014-02-28"
   description = """•	Evaluated, reported, and structured improvements in the process and outcomes of 21 maternal and child health programs under the federal Maternal Infant Early Childhood Home Visiting Grant (MIECHV)
 o	Used SQL queries to extract, read, write and update statewide data system
+
 •	Supported the data collection, management, and analysis of four sister programs and over 100 community sites
 o	Used SAS & Excel software to analysis and visualize statistical reports
+
 •	Facilitated data use and enhanced quality of reporting by increasing the program data literacy, adopting uniform data standards, and implementing quality improvement programs
 o	Using SQL and SAS to automate data quality
+
 •	Wrote and ran the Quality Improvement Plan for our program with a diverse group of stakeholders 
  """
 
