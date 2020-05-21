@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Boudu Bingay, MPH
+title: Boudu Bingay
 
 # Username (this should match the folder name)
 authors:
