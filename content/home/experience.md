@@ -18,6 +18,27 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Program & Implimnetation Evaluator"
+  company = "Roseway Evaluation"
+  company_url = "rosewayevaluation.com"
+  location = "Boston, MA"
+  date_start = "2019-11-01"
+  date_end = "Present"
+  description = """ • Reviewing current evaluation projects 
+  
+  • Gathering, cleaning and optimizing already collected data
+  
+  • Reviewing implimentation plans - Reviewing, creating:
+     • Logic Models and Maps  
+     • Process Flow Models and Maps  
+     • Tracking Models and Maps
+     
+ 
+  
+  """"
+
+
+[[experience]]
   title = "Manager, Data & Evaluation"
   company = "Big Sister Boston"
   company_url = "bigsister.org"
@@ -25,6 +46,7 @@ date_format = "Jan 2006"
   date_start = "2015-01-01"
   date_end = "2019-12-01"
   description = """•	Coordinated the management of program data for nearly 14,000 unique participants/100,000 interactions annually  
+
 •	Analyzed the process and outcomes data of 55 staff members, who serve >5000 participants annually
 
 •	Supported reporting & visualization of real-time, weekly, monthly & annual reports in RStudio & Tableau
