@@ -81,6 +81,15 @@ o	Used SAS & Excel software to analysis and visualize statistical reports
 o	Using SQL and SAS to automate data quality
 
 •	Wrote and ran the Quality Improvement Plan for our program with a diverse group of stakeholders 
+ 
+ Responsibilities include:
+  
+  * Program Evaluation
+  * Data Management
+  * Statistical Analysis
+ 
+ 
+ 
  """
 
 +++
