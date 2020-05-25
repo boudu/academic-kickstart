@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   company_url = "rosewayevaluation.com"
   location = "Boston, MA"
   date_start = "2019-11-01"
-  date_end = "Present"
+  date_end = ""
   description = """ • Reviewing current evaluation projects 
   
   • Gathering, cleaning and optimizing already collected data
