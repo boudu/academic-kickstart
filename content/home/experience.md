@@ -32,8 +32,13 @@ date_format = "Jan 2006"
      • Logic Models and Maps  
      • Process Flow Models and Maps  
      • Tracking Models and Maps
+  
+  • Statisical Analysis:
+     • Survey analysis and visualization
+     • Process analysis and visualization
+     • Outcomes analysis and visualization
+   
      
- 
   
   """"
 
