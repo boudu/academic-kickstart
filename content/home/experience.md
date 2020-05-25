@@ -17,6 +17,7 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
   title = "Program & Implimnetation Evaluator"
   company = "Roseway Evaluation"
@@ -37,10 +38,8 @@ date_format = "Jan 2006"
      • Survey analysis and visualization
      • Process analysis and visualization
      • Outcomes analysis and visualization
-   
-     
   
-  """"
+  """
 
 
 [[experience]]
